@@ -1,0 +1,16 @@
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\bin\Debug\Laba_26.exe.config
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\bin\Debug\Laba_26.exe
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\bin\Debug\Laba_26.pdb
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\App.g.cs
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26_MarkupCompile.cache
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26_MarkupCompile.lref
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.g.resources
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.Properties.Resources.resources
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.csproj.GenerateResource.cache
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.exe
+C:\Users\user.COMP-02.000\source\repos\Laba_26\Laba_26\obj\Debug\Laba_26.pdb
